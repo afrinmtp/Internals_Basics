@@ -1,0 +1,6 @@
+{
+    "model_name": "UrbanRideFareModel",
+    "stage": "None",
+    "framework": "sklearn",
+    "version": 1
+}

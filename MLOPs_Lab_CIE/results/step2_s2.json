@@ -1,0 +1,13 @@
+{
+    "search_type": "random",
+    "n_folds": 5,
+    "total_trials": 10,
+    "best_params": {
+        "n_estimators": 50,
+        "min_samples_split": 5,
+        "max_depth": 20
+    },
+    "best_mae": 53.80678958008658,
+    "best_cv_mae": 53.80678958008658,
+    "parent_run_name": "tuning-urbanride"
+}

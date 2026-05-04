@@ -1,0 +1,5 @@
+{
+    "retrained": true,
+    "new_mae": 77.36741666666691,
+    "model_name": "UrbanRideFareModel"
+}

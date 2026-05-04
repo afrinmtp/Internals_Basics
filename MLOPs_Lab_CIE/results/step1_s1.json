@@ -1,0 +1,20 @@
+{
+    "experiment_name": "urbanride-fare-amount",
+    "models": [
+        {
+            "name": "Lasso",
+            "mae": 75.07020759512756,
+            "rmse": 84.95252076326632,
+            "r2": 0.8347492330985895
+        },
+        {
+            "name": "RandomForest",
+            "mae": 128.59523999999982,
+            "rmse": 144.5677735710278,
+            "r2": 0.5214427181885455
+        }
+    ],
+    "best_model": "Lasso",
+    "best_metric_name": "mae",
+    "best_metric_value": 75.07020759512756
+}
